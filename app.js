@@ -10,6 +10,7 @@ var usersRouter = require("./routes/users");
 const campsiteRouter = require("./routes/campsiteRouter");
 const promotionRouter = require("./routes/promotionRouter");
 const partnerRouter = require("./routes/partnerRouter");
+const uploadRouter = require("./routes/uploadRouter");
 
 const mongoose = require("mongoose");
 
